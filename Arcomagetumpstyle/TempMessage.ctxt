@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TempMessage
+comment0.text=\r\n\ TempMessage\ that\ displays\ an\ text\ and\ a\ number.\r\n\ \r\n\ @author\ Tine\ Mabjerg\r\n\ @version\ 1\r\n
+comment1.params=prefix\ howlong
+comment1.target=TempMessage(java.lang.String,\ int)
+comment1.text=\r\n\ Create\ a\ counter\ with\ prefix\ text\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ Make\ the\ image\r\n
+numComments=4
